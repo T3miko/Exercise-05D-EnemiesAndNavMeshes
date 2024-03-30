@@ -4,8 +4,8 @@
 ## Implementation
 
 ## References
-
+Demonstration video by Nathan Mishler
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Aiko Ileleji
